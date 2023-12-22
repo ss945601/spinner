@@ -59482,8 +59482,8 @@ $0(){var s=this.a
 s.af(new A.a6I(s))},
 $S:0}
 A.a6I.prototype={
-$0(){var s=this.a,r=s.e.length,q=r-1
-r=r>4?A.adw(4,q):A.adw(0,q)
+$0(){var s=this.a,r=s.e.length
+r=r>4?A.adw(4,r):A.adw(0,r)
 s.d.F(0,r)},
 $S:0}
 A.a6N.prototype={
